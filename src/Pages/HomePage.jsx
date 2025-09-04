@@ -77,5 +77,4 @@ const HomePage = ({ onAddToCart, setCurrentPage }) => {
     </div>
   );
 };
-
 export default HomePage;
