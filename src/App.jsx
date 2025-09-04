@@ -2,12 +2,12 @@ import React, { useState, useEffect } from "react";
 import { LanguageProvider } from "./components/LanguageContext";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import HomePage from "./pages/HomePage";
 import MenPage from "./pages/MenPage";
 import WomenPage from "./pages/WomenPage";
 import ContactPage from "./pages/ContactPage";
 import ShoppingCart from "./components/ShoppingCart";
 import Notification from "./components/Notification";
+import HomePage from "./Pages/HomePage";
 import "./index.css";
 
 const App = () => {
